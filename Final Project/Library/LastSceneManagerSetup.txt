@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_SCENE/DesertScene.unity
+  isLoaded: 1
+  isActive: 1

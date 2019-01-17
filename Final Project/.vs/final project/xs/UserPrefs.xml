@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{4ABD25F2-7453-1E14-1C63-BCE00338D1E5}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Script/TrashMove.cs">
+    <Files>
+      <File FileName="Assets/_Script/Game_Control.cs" Line="26" Column="46" />
+      <File FileName="Assets/_Script/Raycast.cs" Line="32" Column="39" />
+      <File FileName="Assets/fade in fade out/SceneSwitch.cs" Line="41" Column="33" />
+      <File FileName="Assets/_Script/grow.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Script/TrashMove.cs" Line="9" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
